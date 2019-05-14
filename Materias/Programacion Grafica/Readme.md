@@ -1,2 +1,2 @@
-# Introduccion a la Informatica
-Documentos, Textos, Modelos, Formularios para la materia de Introduccion a la Informatica
+# `ELC102` Programación Gráfica
+Documentos, Textos, Modelos, Formularios para la materia.
