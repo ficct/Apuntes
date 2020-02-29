@@ -10,4 +10,6 @@ Este repositorio contiene apuntes y material de apoyo utilizado en la Facultad d
    <b>Este repositorio es fruto del esfuerzo de los estudiantes de la Universidad Autonoma Gabriel Rene Moreno</b></br>
 </p>
 
-`Los apuntes pueden estar sujetos a errores, si tal es el caso en ellos se encuentra el contacto del redactor.`
+<p align="center">
+<code>Los apuntes pueden estar sujetos a errores, si tal es el caso en ellos se encuentra el contacto del redactor.</code>
+</p>
