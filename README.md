@@ -8,7 +8,7 @@ Este repositorio contiene apuntes y material de apoyo utilizado en la Facultad d
 
 # Mallas
 
-Informatica             |  Sistemas |  Redes
+[Informatica](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Informatica.pdf)          |  [Sistemas](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Sistemas.pdf) |  [Redes](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Redes.pdf)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://i.imgur.com/9336uvD.png)  |  ![](https://i.imgur.com/facJrTh.png) |  ![](https://i.imgur.com/nbUfPjt.png)
 
