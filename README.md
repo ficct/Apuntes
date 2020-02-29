@@ -13,3 +13,17 @@ Este repositorio contiene apuntes y material de apoyo utilizado en la Facultad d
 <p align="center">
 <code>Los apuntes pueden estar sujetos a errores, si tal es el caso en ellos se encuentra el contacto del redactor.</code>
 </p>
+
+
+ <div class="row">
+  <div class="column">
+    <img src="https://i.imgur.com/nhDsK2i.jpg" alt="Snow" width="150">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/nhDsK2i.jpg" alt="Forest" width="150">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/nhDsK2i.jpg" alt="Mountains" width="150">
+  </div>
+</div> 
+
