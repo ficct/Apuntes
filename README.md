@@ -10,7 +10,7 @@ Este repositorio contiene apuntes y material de apoyo utilizado en la Facultad d
 
 [Informatica](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Informatica.pdf)          |  [Sistemas](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Sistemas.pdf) |  [Redes](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Redes.pdf)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://i.imgur.com/9336uvD.png)  |  ![](https://i.imgur.com/facJrTh.png) |  ![](https://i.imgur.com/nbUfPjt.png)
+![](https://i.imgur.com/HBSUOZI.png)  |  ![](https://i.imgur.com/Tr83XZi.png) |  ![](https://i.imgur.com/kngOEBv.png)
 
 <p align="center">
    <b>Este repositorio es fruto del esfuerzo de los estudiantes de la Universidad Autonoma Gabriel Rene Moreno</b></br>
