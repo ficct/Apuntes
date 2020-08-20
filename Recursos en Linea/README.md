@@ -1,10 +1,10 @@
-# <img src="C:\Users\User\Desktop\GitHub Repositories\Apuntes\Recursos en Linea\imagenes\main-awesomeFICCT.png" width="1200" alt="awesome ficct">
+# <img src="https://raw.githubusercontent.com/ficct/Apuntes/master/Recursos en Linea/imagenes/main-awesomeFICCT.png" width="1200" alt="awesome ficct">
 
 > Soportado por y para estudiantes de la Facultad de Ingenieria en Ciencias de la Computación y Telecomunicaciones - Universidad Autonoma Gabriel Rene Moreno
 
 > Una increible e intersante lista de contenido en linea para las materias de las carreras
 
-# <img src="C:\Users\User\Desktop\GitHub Repositories\Apuntes\Recursos en Linea\imagenes\table-of-contents.png" alt="table of contents">
+# <img src="https://raw.githubusercontent.com/ficct/Apuntes/master/Recursos en Linea/imagenes/table-of-contents.png" alt="table of contents">
 
 <!-- vim-markdown-toc GFM -->
 
@@ -142,7 +142,7 @@
 
 Conoces contenido trascrito o audiovisual para las materias de la facultad hechos por estudiantes?
 
-Las contribuciones son bienvenidas, por favor adhiérase con las normas escritas en la [guia de contribucciones](Contribucciones.md).
+Las contribuciones son bienvenidas, por favor adhiérase con las normas escritas en la [guia de contribucciones](Contribuciones.md).
 
 **[⬆ volver a inicio](#materias)**
 
