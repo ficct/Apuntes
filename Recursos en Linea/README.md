@@ -1,5 +1,3 @@
-# <img src="https://raw.githubusercontent.com/ficct/Apuntes/master/Recursos en Linea/imagenes/main-awesomeFICCT.png" width="1200" alt="awesome ficct">
-
 <div align="center">
 	<img width="500" height="350" src="imagenes/AWESOME FICCT.svg" alt="Awesome">
 </div>
