@@ -6,7 +6,7 @@
 
 > Una increible e intersante lista de contenido en linea para las materias de las carreras
 
-# <img src="https://raw.githubusercontent.com/ficct/Apuntes/master/Recursos en Linea/imagenes/table-of-contents.png" alt="table of contents">
+# Tabla de Contenidos
 
 <!-- vim-markdown-toc GFM -->
 
