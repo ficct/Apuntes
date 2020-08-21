@@ -1,5 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ficct/Apuntes/master/Recursos en Linea/imagenes/main-awesomeFICCT.png" width="1200" alt="awesome ficct">
 
+<div align="center">
+	<img width="500" height="350" src="imagenes/AWESOME FICCT.svg" alt="Awesome">
+</div>
+
 > Soportado por y para estudiantes de la Facultad de Ingenieria en Ciencias de la Computación y Telecomunicaciones - Universidad Autonoma Gabriel Rene Moreno
 
 > Una increible e intersante lista de contenido en linea para las materias de las carreras
