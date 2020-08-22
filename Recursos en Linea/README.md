@@ -44,7 +44,7 @@
 
 ## Materias
 
-### - Primer Semestre
+### Primer Semestre
 
 #### Calculo I
 
@@ -138,7 +138,7 @@
 
 ## Canal de Discusion
 
-- [Discord](https://discord.gg/x9Rdza) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
+- [Discord](https://discord.gg/BdY4F9) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
 
 ## Contribuye al listado
 
