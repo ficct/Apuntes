@@ -126,6 +126,10 @@
 
 - [Informes](https://github.com/ficct/Apuntes/tree/master/Materias/INF433%20-%20Redes%20I/Informes)
 
+#### Sistemas de Indormacion II
+
+- [Prueba de Sistema](https://www.youtube.com/watch?v=VHRQSPKW7SY) - Sistema de primer parcial hecho por el Est. [Pablo Tardio](https://github.com/pablotardio) (semestre I-2020)
+
 ### Octavo Semestre
 
 #### Sistema de Informacion Geografica
@@ -138,7 +142,7 @@
 
 ## Canal de Discusion
 
-- [Discord](https://discord.gg/BdY4F9) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
+- [Discord](https://discord.gg/8hdbUqr) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
 
 ## Contribuye al listado
 
