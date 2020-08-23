@@ -145,7 +145,7 @@
 
 ## Canal de Discusion
 
-- [Discord](https://discord.gg/8hdbUqr) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
+- [Discord](https://discord.gg/Jc7aAt) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
 
 ## Contribuye al listado
 
