@@ -33,6 +33,7 @@
     - [Compiladores](#compiladores)
   - [Septimo Semestre](#septimo-semestre)
     - [Redes I](#redes-i)
+    - [Sistema de Informacion II](#sistema-de-informacion-ii)
   - [Octavo Semestre](#octavo-semestre)
     - [Sistema de Informacion Geografica](#sistema-de-informacion-geografica)
     - [Sistemas Expertos](#sistemas-expertos)
@@ -126,7 +127,7 @@
 
 - [Informes](https://github.com/ficct/Apuntes/tree/master/Materias/INF433%20-%20Redes%20I/Informes)
 
-#### Sistemas de Indormacion II
+#### Sistema de Informacion II
 
 - [Prueba de Sistema](https://www.youtube.com/watch?v=VHRQSPKW7SY) - Sistema de primer parcial hecho por el Est. [Pablo Tardio](https://github.com/pablotardio) (semestre I-2020)
 
