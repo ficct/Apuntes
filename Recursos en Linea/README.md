@@ -33,10 +33,10 @@
     - [Compiladores](#compiladores)
   - [Septimo Semestre](#septimo-semestre)
     - [Redes I](#redes-i)
-    - [Sistema de Informacion II](#sistema-de-informacion-ii)
   - [Octavo Semestre](#octavo-semestre)
     - [Sistema de Informacion Geografica](#sistema-de-informacion-geografica)
     - [Sistemas Expertos](#sistemas-expertos)
+- [Mallas](#mallas)
 - [Canal de Discusion](#canal-de-discusion)
 - [Contribuye al listado](#contribuye-al-listado)
 - [Licencia](#licencia)
@@ -127,10 +127,6 @@
 
 - [Informes](https://github.com/ficct/Apuntes/tree/master/Materias/INF433%20-%20Redes%20I/Informes)
 
-#### Sistema de Informacion II
-
-- [Prueba de Sistema](https://www.youtube.com/watch?v=VHRQSPKW7SY) - Sistema de primer parcial hecho por el Est. [Pablo Tardio](https://github.com/pablotardio) (semestre I-2020)
-
 ### Octavo Semestre
 
 #### Sistema de Informacion Geografica
@@ -140,6 +136,12 @@
 #### Sistemas Expertos
 
 - [Apuntes](https://github.com/ficct/Apuntes/blob/master/Materias/INF428%20-%20Sistemas%20Expertos/Sistemas_Expertos_Apuntes.pdf) - Realizado por [Mauricio Delgadillo](https://github.com/Dup1n) mientras cursaba la materia (semestre I-2020 -- En Progreso)
+
+## Mallas
+
+- [Ingenieria en Informatica](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Informatica.pdf)
+- [Ingenieria en Sistemas](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Sistemas.pdf)
+- [Ingenieria en Redes](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Redes.pdf)
 
 ## Canal de Discusion
 
