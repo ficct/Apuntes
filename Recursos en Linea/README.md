@@ -36,6 +36,7 @@
   - [Octavo Semestre](#octavo-semestre)
     - [Sistema de Informacion Geografica](#sistema-de-informacion-geografica)
     - [Sistemas Expertos](#sistemas-expertos)
+- [Mallas](#mallas)
 - [Canal de Discusion](#canal-de-discusion)
 - [Contribuye al listado](#contribuye-al-listado)
 - [Licencia](#licencia)
@@ -44,7 +45,7 @@
 
 ## Materias
 
-### - Primer Semestre
+### Primer Semestre
 
 #### Calculo I
 
@@ -136,9 +137,15 @@
 
 - [Apuntes](https://github.com/ficct/Apuntes/blob/master/Materias/INF428%20-%20Sistemas%20Expertos/Sistemas_Expertos_Apuntes.pdf) - Realizado por [Mauricio Delgadillo](https://github.com/Dup1n) mientras cursaba la materia (semestre I-2020 -- En Progreso)
 
+## Mallas
+
+- [Ingenieria en Informatica](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Informatica.pdf)
+- [Ingenieria en Sistemas](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Sistemas.pdf)
+- [Ingenieria en Redes](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Redes.pdf)
+
 ## Canal de Discusion
 
-- [Discord](https://discord.gg/x9Rdza) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
+- [Discord](https://discord.gg/Jc7aAt) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
 
 ## Contribuye al listado
 
