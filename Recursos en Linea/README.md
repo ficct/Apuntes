@@ -10,36 +10,38 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Materias](#materias)
-  - [Primer Semestre](#primer-semestre)
-    - [Calculo I](#calculo-i)
-    - [Introduccion a la Informatica](#introduccion-a-la-informatica)
-    - [Estructuras Discretas](#estructuras-discretas)
-  - [Segundo Semestre](#segundo-semestre)
-    - [Calculo II](#calculo-ii)
-    - [Programacion I](#programacion-i)
-    - [Fisica II](#fisica-ii)
-  - [Tercer Semestre](#tercer-semestre)
-    - [Arquitectura de Computadoras](#arquitectura-de-computadoras)
-    - [Programacion II](#programacion-ii)
-  - [Cuarto Semestre](#cuarto-semestre)
-    - [Programacion Ensamblador](#programacion-ensamblador)
-  - [Quinto Semestre](#quinto-semestre)
-    - [Probabilidad y Estadistica II](#probabilidad-y-estadistica-ii)
-    - [Lenguajes Formales](#lenguajes-formales)
-  - [Sexto Semestre](#sexto-semestre)
-    - [Investigacion Operativa I](#investigacion-operativa-i)
-    - [Sistemas Operativos I](#sistemas-operativos-i)
-    - [Compiladores](#compiladores)
-  - [Septimo Semestre](#septimo-semestre)
-    - [Redes I](#redes-i)
-  - [Octavo Semestre](#octavo-semestre)
-    - [Sistema de Informacion Geografica](#sistema-de-informacion-geografica)
-    - [Sistemas Expertos](#sistemas-expertos)
-- [Mallas](#mallas)
-- [Canal de Discusion](#canal-de-discusion)
-- [Contribuye al listado](#contribuye-al-listado)
-- [Licencia](#licencia)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+  - [Materias](#materias)
+    - [Primer Semestre](#primer-semestre)
+      - [Calculo I](#calculo-i)
+      - [Introduccion a la Informatica](#introduccion-a-la-informatica)
+      - [Estructuras Discretas](#estructuras-discretas)
+    - [Segundo Semestre](#segundo-semestre)
+      - [Calculo II](#calculo-ii)
+      - [Programacion I](#programacion-i)
+      - [Fisica II](#fisica-ii)
+      - [Algebra Lineal](#algebra-lineal)
+    - [Tercer Semestre](#tercer-semestre)
+      - [Arquitectura de Computadoras](#arquitectura-de-computadoras)
+      - [Programacion II](#programacion-ii)
+    - [Cuarto Semestre](#cuarto-semestre)
+      - [Programacion Ensamblador](#programacion-ensamblador)
+    - [Quinto Semestre](#quinto-semestre)
+      - [Probabilidad y Estadistica II](#probabilidad-y-estadistica-ii)
+      - [Lenguajes Formales](#lenguajes-formales)
+    - [Sexto Semestre](#sexto-semestre)
+      - [Investigacion Operativa I](#investigacion-operativa-i)
+      - [Compiladores](#compiladores)
+      - [Sistemas Operativos I](#sistemas-operativos-i)
+    - [Septimo Semestre](#septimo-semestre)
+      - [Redes I](#redes-i)
+    - [Octavo Semestre](#octavo-semestre)
+      - [Sistema de Informacion Geografica](#sistema-de-informacion-geografica)
+      - [Sistemas Expertos](#sistemas-expertos)
+  - [Mallas](#mallas)
+  - [Canal de Discusion](#canal-de-discusion)
+  - [Contribuye al listado](#contribuye-al-listado)
+  - [Licencia](#licencia)
 
 <!-- vim-markdown-toc -->
 
@@ -73,6 +75,10 @@
 
 - [Modelos de Examen](https://github.com/ficct/Apuntes/blob/master/Materias/FIS102%20-%20Fisica%20II/Fisica_II_Modelos_de_Examen.pdf) - Recopilacion de exámenes de semestres pasados en la cátedra del Ing. Zeballos
 
+#### Algebra Lineal
+
+- [Modelos de Examen](https://github.com/ficct/Apuntes/tree/master/Materias/MAT103%20-%20Algebra%20Lineal) - Solucion del 1er Parcial y Modelo creado del 2do Parcial por el Aux. Jhoel Flores (Semestre II-2020)
+
 ### Tercer Semestre
 
 #### Arquitectura de Computadoras
@@ -83,6 +89,8 @@
 
 #### Programacion II
 
+- [Ayudantias](https://www.youtube.com/playlist?list=PLrGTQrXjW2c5JXS2qQJDNi6fKh-h-Dd3l) - Compilacion de videos realizados en la auxilatura de [Pedro Caricari](https://github.com/cartory) (semestre II-2020)
+
 - [Ayudantias](https://www.youtube.com/playlist?list=PLrGTQrXjW2c4EX0h3PE7s0takEkon0Hgv) - Compilacion de videos realizados en la auxilatura de [Pedro Caricari](https://github.com/cartory) (semestre I-2020)
 
 - [Modelos de Examen](https://github.com/ficct/Apuntes/blob/master/Materias/INF210%20-%20Programacion%20II/Programacion_II_Modelo_de_Examen.pdf) - Recopilacion de exámenes de semestres pasados en la cátedra del Ing. Contreras
@@ -90,6 +98,8 @@
 ### Cuarto Semestre
 
 #### Programacion Ensamblador
+
+- [Ayudantias](https://www.youtube.com/playlist?list=PL1urG4s7pAjqHwATtzFouo3LpMpQ9MTSA) - Compilacion de videos realizados en la auxilatura de [Pablo Tardio](https://github.com/pablotardio) (semestre II-2020)
 
 - [Ayudantias](https://www.youtube.com/playlist?list=PL1urG4s7pAjqLW1Dwi5gdqO7OvtWps74K) - Compilacion de videos realizados en la auxilatura de [Pablo Tardio](https://github.com/pablotardio) (semestre I-2020)
 
@@ -145,7 +155,7 @@
 
 ## Canal de Discusion
 
-- [Discord](https://discord.gg/Jc7aAt) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
+- [Discord](https://discord.gg/8hdbUqr) - Lugar donde se responderan dudas, preguntas y problemas que se tenga en el listado
 
 ## Contribuye al listado
 
