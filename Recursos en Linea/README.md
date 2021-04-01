@@ -71,6 +71,8 @@
 
 #### Programacion I
 
+- [Ayudantias](https://www.youtube.com/playlist?list=PL1urG4s7pAjpcVpEH5rp272gdXtg19eJC) - Compilacion de videos realizados en la auxilatura de [Pablo Tardio](https://github.com/pablotardio) (semestre II-2020)
+
 - [Ayudantias](https://www.youtube.com/playlist?list=PL1urG4s7pAjqge3qN_S7jgGHL1vBUEEUb) - Compilacion de videos realizados en la auxilatura de [Pablo Tardio](https://github.com/pablotardio) (semestre I-2020)
 
 #### Fisica II
@@ -116,6 +118,10 @@
 - [Formulas](https://github.com/ficct/Apuntes/blob/master/Materias/MAT302%20-%20Probabilidad%20y%20Estadistica%20II/Formulas%20MAT302.pdf)
 
 #### Lenguajes Formales
+
+- [Ayudantias](https://www.youtube.com/playlist?list=PLXBpi1hjlNSjHZ5fN1JxUNH49FZWAaW0C) - Compilacion de videos realizados en la auxilatura de [Leonardo Añez](https://github.com/toborochi) (semestre II-2020)
+
+- [Ayudantias](https://www.youtube.com/playlist?list=PLXBpi1hjlNSirMShxZE_5RoXx9KUbkgLr) - Compilacion de videos realizados en la auxilatura de [Leonardo Añez](https://github.com/toborochi) (semestre I-2020)
 
 - [Apuntes](https://github.com/ficct/Apuntes/blob/master/Materias/INF319%20-%20Lenguajes%20Formales/Lenguajes%20Formales.pdf) - Realizado por [Leonardo Añez](https://github.com/toborochi) mientras cursaba la materia (semestre I-2019)
 
