@@ -38,6 +38,8 @@
     - [Octavo Semestre](#octavo-semestre)
       - [Sistema de Informacion Geografica](#sistema-de-informacion-geografica)
       - [Sistemas Expertos](#sistemas-expertos)
+    - [Noveno Semestre](#noveno-semestre)
+      - [Tecnologia Web](#tecnologia-web)
   - [Mallas](#mallas)
   - [Canal de Discusion](#canal-de-discusion)
   - [Contribuye al listado](#contribuye-al-listado)
@@ -135,7 +137,7 @@
 
 #### Redes I
 
-- [Informes](https://github.com/ficct/Apuntes/tree/master/Materias/INF433%20-%20Redes%20I/Informes)
+- [Informes](https://github.com/ficct/Apuntes/tree/master/Materias/INF433%20-%20Redes%20I/Informes) - Coleccion de informes realizados en la materia
 
 ### Octavo Semestre
 
@@ -147,6 +149,11 @@
 
 - [Apuntes](https://github.com/ficct/Apuntes/blob/master/Materias/INF428%20-%20Sistemas%20Expertos/Sistemas_Expertos_Apuntes.pdf) - Realizado por [Mauricio Delgadillo](https://github.com/Dup1n) mientras cursaba la materia (semestre I-2020 -- En Progreso)
 
+### Noveno Semestre
+
+#### Tecnologia Web
+
+- [Investigaciones](https://github.com/ficct/Apuntes/tree/master/Materias/INF513%20-%20Tecnologia%20Web/Investigaciones) - Compilacion de las Investigaciones realizados en la materia
 ## Mallas
 
 - [Ingenieria en Informatica](https://github.com/ficct/Apuntes/blob/master/Mallas/Malla_de_Informatica.pdf)
