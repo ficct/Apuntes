@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.imgur.com/nhDsK2i.jpg" alt="alt text" width="200" height="whatever">
+<img src="ESCUDO FICCT.svg" alt="alt text" width="200" height="whatever">
 </p>
 
 # Apuntes
