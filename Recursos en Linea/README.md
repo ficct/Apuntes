@@ -133,6 +133,8 @@
 
 - [Clases](https://www.youtube.com/playlist?list=PLjT-g17Zevt8L03ObHCjLqQA-fQsAfqsq) - Coleccion de videos realizadas en la cátedra impartida por el Ing. Hinojosa (I-2020)
  
+- [Ayudantías](https://drive.google.com/drive/folders/1aCPC7Rc1VqjkiwgvGi3iwI-eEPCF6DwD) - Recopilación de videos de las auxiliaturas realizadas por el Auxiliar Sergio Bueno (II-2020).
+ 
 - [Modelos de Examen](https://github.com/ficct/Apuntes/blob/master/Materias/INF211%20-%20Arquitectura%20de%20Computadoras/Modelos_de_Arquitectura.pdf) - Recopilacion de exámenes de semestres pasados en la cátedra del Ing. Hinojosa
 
 - [Formulario](https://github.com/ficct/Apuntes/blob/master/Materias/INF211%20-%20Arquitectura%20de%20Computadoras/Formulario_De_Arquitectura.pdf)
